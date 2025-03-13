@@ -60,11 +60,11 @@
       ],
       "drc_exclusions": [
         [
-          "clearance|101025000|57055000|295c52ed-1761-468b-9a54-4d086e2c36bb|abaf17d1-1e63-4dd9-b846-02f0c8c30169",
+          "clearance|97225000|57055000|25ccada6-0f0d-42c4-a5cf-8164f71888a3|d6c1f736-14a3-4dfa-b29a-862fca7e2268",
           ""
         ],
         [
-          "clearance|97225000|57055000|25ccada6-0f0d-42c4-a5cf-8164f71888a3|d6c1f736-14a3-4dfa-b29a-862fca7e2268",
+          "hole_clearance|101339000|56739000|295c52ed-1761-468b-9a54-4d086e2c36bb|edb7b991-d470-48bf-bcba-b761a82f7c3d",
           ""
         ],
         [
@@ -72,35 +72,35 @@
           ""
         ],
         [
-          "hole_clearance|101825000|57055000|aab9ddc7-0ffb-4947-b003-bf7378ca08e2|edb7b991-d470-48bf-bcba-b761a82f7c3d",
+          "hole_clearance|101825000|57055000|edb7b991-d470-48bf-bcba-b761a82f7c3d|aab9ddc7-0ffb-4947-b003-bf7378ca08e2",
           ""
         ],
         [
-          "hole_clearance|101825000|57055000|dd3c18b5-fdcb-4ea8-b1fe-ab8e5ab4bfbc|edb7b991-d470-48bf-bcba-b761a82f7c3d",
+          "hole_clearance|101825000|57055000|edb7b991-d470-48bf-bcba-b761a82f7c3d|dd3c18b5-fdcb-4ea8-b1fe-ab8e5ab4bfbc",
           ""
         ],
         [
-          "hole_clearance|102025000|57055000|ac3f738b-b777-4909-8a3c-1e8c93286855|edb7b991-d470-48bf-bcba-b761a82f7c3d",
+          "hole_clearance|102025000|57055000|edb7b991-d470-48bf-bcba-b761a82f7c3d|ac3f738b-b777-4909-8a3c-1e8c93286855",
           ""
         ],
         [
-          "hole_clearance|102025000|57055000|e19ddfa6-b1ae-449b-8358-d2fcad808a72|edb7b991-d470-48bf-bcba-b761a82f7c3d",
+          "hole_clearance|102025000|57055000|edb7b991-d470-48bf-bcba-b761a82f7c3d|e19ddfa6-b1ae-449b-8358-d2fcad808a72",
           ""
         ],
         [
-          "hole_clearance|96225000|57055000|0ef3de36-8175-4a85-beb8-314ef3b3ac3e|f9813564-f903-44b4-b2b5-cc248bb1df01",
+          "hole_clearance|96225000|57055000|f9813564-f903-44b4-b2b5-cc248bb1df01|0ef3de36-8175-4a85-beb8-314ef3b3ac3e",
           ""
         ],
         [
-          "hole_clearance|96225000|57055000|cb2c2b9b-7613-41d5-b02a-a9b04c9badd5|f9813564-f903-44b4-b2b5-cc248bb1df01",
+          "hole_clearance|96225000|57055000|f9813564-f903-44b4-b2b5-cc248bb1df01|cb2c2b9b-7613-41d5-b02a-a9b04c9badd5",
           ""
         ],
         [
-          "hole_clearance|96425000|57055000|8a0e8781-0a42-47f9-a9c9-4652e5861907|f9813564-f903-44b4-b2b5-cc248bb1df01",
+          "hole_clearance|96425000|57055000|f9813564-f903-44b4-b2b5-cc248bb1df01|8a0e8781-0a42-47f9-a9c9-4652e5861907",
           ""
         ],
         [
-          "hole_clearance|96425000|57055000|b04acb0d-3128-437f-9eda-cb91a594dfac|f9813564-f903-44b4-b2b5-cc248bb1df01",
+          "hole_clearance|96425000|57055000|f9813564-f903-44b4-b2b5-cc248bb1df01|b04acb0d-3128-437f-9eda-cb91a594dfac",
           ""
         ],
         [
@@ -568,7 +568,7 @@
   },
   "schematic": {
     "annotate_start_num": 0,
-    "bom_export_filename": "${PROJECTNAME}.csv",
+    "bom_export_filename": "/Users/alexanderpark/Downloads/lora_pager.csv",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",
